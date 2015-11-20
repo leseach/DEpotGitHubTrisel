@@ -21,7 +21,7 @@ public  class Habitation {
 			this.adresseVille = adresseVille;
 			usager = unUsager;
 			lesPoubelles = new ArrayList<Poubelle>();
-			System.out.println("eee");
+			
 	}
 	public String getIdHabitation() {
 		return idHabitation;
